@@ -1,2 +1,7 @@
 # go_learning
-Learning go by Udemy courses
+
+Learning GoLang by Udemy course
+Each branch shows each section of the cours
+
+1 - Helloworld
+2 - Deeper into Go
